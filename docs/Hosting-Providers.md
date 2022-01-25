@@ -4,9 +4,9 @@ This is my super-opiniated version of how each of these should behave 😅
 
 **Legend**:
 
-- 🆘 Error
+- 🆘 Unexpected
 - 🟡 SEO Warning: Multiple endpoints for the same content
-- ✅ Correct
+- ✅ Correct, canonical or redirects to canonical
 
 ## Ignoring File Extension URLs
 
